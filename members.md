@@ -6,7 +6,7 @@ permalink: /members/
 
 # HCLIM consortium
 
-![HCLIM consortium members](_images/consortium_members.svg)
+![HCLIM consortium members](images/members/consortium_members.svg)
 
 ## List of members
 
