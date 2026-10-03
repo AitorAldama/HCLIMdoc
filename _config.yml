@@ -4,7 +4,7 @@ repository: HCLIMcom/HCLIMdoc
 
 logo: /images/logo/HCLIM_logo_colour.png
 
-docs_list_title: HCLIM | Harmonie for climate applications
+docs_list_title: On this page
 docs:
 - title: Home 
   url: /
