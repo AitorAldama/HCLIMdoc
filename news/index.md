@@ -3,7 +3,7 @@ layout: default
 title: News & Announcements
 ---
 
-# News
+# News & Announcements
 
 {% assign all_news = site.news | sort: "date" | reverse %}
 

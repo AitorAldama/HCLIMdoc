@@ -2,6 +2,8 @@ theme: jekyll-theme-minimal
 
 repository: HCLIMcom/HCLIMdoc
 
+logo: /_images/HCLIM_logo_colour.png
+
 docs_list_title: HCLIM | Harmonie for climate applications
 docs:
 - title: Home 
