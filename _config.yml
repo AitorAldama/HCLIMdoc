@@ -11,9 +11,9 @@ docs:
 
 - title: About HCLIM
   children:
-      - title: Members
+      - title: HCLIM consortium
         url: /about-hclim/consortium/
-      - title: History
+      - title: Technical description
         url: /about-hclim/technical-description/
 
 - title: News & Announcements

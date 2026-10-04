@@ -6,7 +6,7 @@ permalink: /about-hclim/technical-description/
 
 # HCLIM technical description
 
-![HCLIM Project Image](images/logos/HCLIM_ProjectImage.png)
+![HCLIM project image]({{ '/images/logos/HCLIM_ProjectImage.png' | relative_url }})
 
 The **HARMONIE-Climate (HCLIM)** is a regional climate model framework developed jointly by several European national meteorological services. It is the *climate* version of the HIRLAM–ALADIN Research on Mesoscale Operational numerical weather prediction (NWP) in Euromed (HARMONIE) system, with HCLIM development closely linked to HARMONIE advancements.  
 
