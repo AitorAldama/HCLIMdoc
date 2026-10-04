@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "HCLIM technical description"
-permalink: /about-hclim/technical-description
+permalink: /about-hclim/technical-description/
 ---
 
 # HCLIM technical description
