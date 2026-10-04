@@ -9,6 +9,13 @@ docs:
 - title: Home 
   url: /
 
+- title: About HCLIM
+    children:
+      - title: Members
+        url: /about-hclim/consortium/
+      - title: History
+        url: /about-hclim/technical-description/
+        
 - title: Members
   url: /members/
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "HCLIM consortium members"
-permalink: /members/
+permalink: /about-hclim/consortium
 ---
 
 # HCLIM consortium
