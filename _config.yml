@@ -16,6 +16,22 @@ docs:
       - title: Technical description
         url: /about-hclim/technical-description/
 
+- title: Research Areas
+  children:
+      - title: Regional downscaling
+        url: /research-areas/regional-downscaling/
+      - title: Coupling
+        url: /research-areas/coupling/
+      - title: High latitudes
+        url: /research-areas/high-latitudes/
+      - title: AI / Machine learning 
+        url: /research-areas/ai/
+      - title: Pseudo global warming 
+        url: /research-areas/pgw/
+
+- title: Projects
+  url: /projects/
+
 - title: News & Announcements
   url: /news/
 
