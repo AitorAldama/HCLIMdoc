@@ -1,0 +1,31 @@
+
+/* Reduce the white space on the sides */
+
+.wrapper {
+    width: 90%;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+/* Adjust the main content area */
+section {
+    width: 65%;
+}
+
+/* Adjust the sidebar */
+header {
+    width: 25%;
+}
+
+/* Responsive layout */
+@media screen and (max-width: 960px) {
+    .wrapper {
+        width: 95%;
+    }
+
+    header,
+    section,
+    footer {
+        width: auto;
+    }
+}
